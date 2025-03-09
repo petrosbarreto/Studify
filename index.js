@@ -1,5 +1,5 @@
 const { Client, Events, GatewayIntentBits, Collection } = require('discord.js')
-
+//teste copilot
 // dotenv
 const dotenv = require('dotenv')
 dotenv.config()
